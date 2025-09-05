@@ -1,0 +1,3 @@
+git add .
+git commit -m "Merge now"
+git push origin master
